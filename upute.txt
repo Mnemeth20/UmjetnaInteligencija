@@ -1,0 +1,1 @@
+Za pokretanje aplikacije potrebno je pokrenuti flask(naredbom flask run) i pokrenuti aplikaciju upisivanjem interface.py u terminalu. Kod pokretanja flask-a potrebno se prebaciti u server datoteku.
